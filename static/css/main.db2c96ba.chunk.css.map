@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,MACE,+BACF,CAEA,YACE,cACF,CAEA,OACE,cAAe,CACf,SACF,CAEA,KACE,oBACF","file":"main.db2c96ba.chunk.css","sourcesContent":[".form {\n  font-family: \"Roboto\", sans-serif;\n}\n\n.activities {\n  font-size: 18px;\n}\n\n.error {\n  font-size: 16px;\n  color: red;\n}\n\n.add {\n  display: inline-block;\n}\n"]}
